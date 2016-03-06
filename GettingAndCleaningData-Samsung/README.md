@@ -1,4 +1,4 @@
-The run_analysis.R script extracts the average mean and standard deviation of the data set signals for each activity and each subject in an independent tidy data set through the following steps:
+The run_analysis.R script manipulates the collected Samsung Data. It extracts the average mean and standard deviation of the data set signals for each activity and each subject to an independent tidy data set through the following steps:
 
 **Step 0:** Downloads the data set (if it doesn't exist) from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" and unzips it
 
